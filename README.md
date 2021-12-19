@@ -1,4 +1,3 @@
-# Referencia
 :books: [Dockerizando uma aplicação React JS](https://blog.codeexpertslearning.com.br/dockerizando-uma-aplica%C3%A7%C3%A3o-react-js-f6a22e93bc5d)
 
 # Getting Started with Create React App
